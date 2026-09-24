@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Prabesh Ghimire — I build products that bring in work.</title>
+<desc id="desc">Websites, mobile apps and AI tools. Designed, built and shipped by one engineer. Based in Nepal.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.8" fill="#30363d"/></pattern></defs>
+<rect width="1200" height="440" rx="16" fill="#0d1117"/>
+<rect width="1200" height="440" rx="16" fill="url(#dots)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="56" y="58" fill="#f0f0f0" font-size="20" font-weight="700">Prabesh Ghimire.</text>
+<text x="1144" y="58" text-anchor="end" fill="#91979e" font-family="monospace" font-size="14">NEPAL / @GPRABES</text>
+<line x1="56" y1="86" x2="1144" y2="86" stroke="#30363d"/>
+<text x="600" y="174" text-anchor="middle" fill="#f0f0f0" font-size="64" letter-spacing="-3"><tspan fill="#91979e">I build </tspan>products</text>
+<text x="600" y="249" text-anchor="middle" fill="#f0f0f0" font-size="64" letter-spacing="-3">that bring in work.</text>
+<text x="600" y="300" text-anchor="middle" fill="#91979e" font-size="20">Websites, mobile apps and AI tools.</text>
+<line x1="56" y1="350" x2="1144" y2="350" stroke="#30363d"/>
+<circle cx="62" cy="392" r="4" fill="#f0f0f0"/>
+<text x="80" y="397" fill="#91979e" font-family="monospace" font-size="14">DESIGN → BUILD → SHIP</text>
+<text x="1144" y="397" text-anchor="end" fill="#91979e" font-family="monospace" font-size="14">ONE ENGINEER. FIRST CALL TO LAUNCH.</text>
+</g></svg>
